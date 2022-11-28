@@ -2,7 +2,7 @@
 
 <br />
 
-![A passionate Cyber Security Enthusiast and Software Tester.](https://tmb1n.github.io/d1mGen/cover.jpg)
+![A passionate Cyber Security Enthusiast and Software Tester.](https://github.com/tmb1n/tmb1n/blob/main/cover.jpg)
 
 <h2 align="center"> Assalamulaikum... Hi, It's EMAMUL! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <h4 align="center"> A passionate Cyber Security Enthusiast and Software Tester. </h4>

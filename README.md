@@ -2,12 +2,12 @@
 
 <br />
 
-![A passionate Cyber Security Enthusiast and Software Tester.](https://github.com/tmb1n/tmb1n/blob/main/cover.jpg)
+![A passionate Cyber Security Enthusiast and Software Tester](https://github.com/tmb1n/tmb1n/blob/main/cover.jpg)
 
 <h2 align="center"> Assalamulaikum... Hi, It's EMAMUL! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <h4 align="center"> A passionate Cyber Security Enthusiast and Software Tester. </h4>
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="left" width="300" alt="d1mGen-left-single"/>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="left" width="300" alt="tmb1n-left-single"/>
 
 <br />
 

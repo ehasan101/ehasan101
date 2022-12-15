@@ -14,7 +14,7 @@
 <br />
 
 
- - 🔭 I’m currently working on Software Testing. 
+ - 💼 I’m working on Software Testing. 
  - 🌱 I’m currently learning Cyber Security (web-mobile pentesting) 
  - 📒 I'm in my last year of studies Bachelor of Science in Computer Science and Engineering
  - ⚡ Fun fact: I'm INVISIBLE 😅
@@ -25,11 +25,11 @@
 
 <br />
 
-## 📎 Project
- - Manual Testing (SQA)
+## 📎 All Projects
+ - [Manual Testing (SQA)](https://tmb1n.github.io/project/)
  - Automation Tetsing (SQA)
- - Web Penetration Testing
- - Others
+ - [Web Penetration Testing](https://tmb1n.github.io/project/)
+ - [Others](https://tmb1n.github.io/project/)
  
 <br />
 
@@ -54,7 +54,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 </p>
 
-<br />
+
 
 ## 💬 Connect with Me
 

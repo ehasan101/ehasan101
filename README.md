@@ -26,10 +26,10 @@
 <br />
 
 ## 📎 All Projects
- - [Manual Testing (SQA)](https://tmb1n.github.io/project/)
+ - [Manual Testing (SQA)]([https://tmb1n.github.io/project/](https://emamul.netlify.app/#project))
  - Automation Tetsing (SQA)
- - [Web Penetration Testing](https://tmb1n.github.io/project/)
- - [Others](https://tmb1n.github.io/project/)
+ - [Web Penetration Testing]([https://tmb1n.github.io/project/](https://emamul.netlify.app/#project))
+ - [Others](https://emamul.netlify.app/#project)
  
 <br />
 

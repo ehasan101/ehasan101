@@ -1,6 +1,7 @@
-![A passionate Cyber Security Enthusiast and Software Tester](https://github.com/tmb1n/tmb1n/blob/main/cover.jpg)
-<h2 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&duration=5&pause=2000&color=131E24&random=false&width=500&height=40&lines=Assalamu+Alaikum...+(Peace+be+upon+you);Hi%2C+It's+EMAMUL+!" alt="Assalamu Alaikum" /></a> </h2>
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&duration=2500&pause=800&color=006685&random=false&width=500&height=40&lines=A+passionate+Cyber+Security+Enthusiast+%26+SQA+Engineer" alt="Emamul Hasan, a SQA-Cyber Security Enthusiast"/> </a> </h3>
+![A passionate Cyber Security Enthusiast and Software Tester](https://github.com/tmb1n/tmb1n/blob/main/cover.jpg) 
+<br />
+<h2 align="left"> <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=27&duration=5&pause=1500&color=172931&random=false&width=450&height=45&lines=Assalamu+Alaikum...+(Peace+be+upon+You);Hi%2C+It's+EMAMUL+!" alt="Assalamu Alaikum"/> </a> </h2>
+<h3 align="center"> <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=23&duration=2000&pause=1500&color=00495F&random=false&width=700&lines=A+passionate+Cyber+Security+Enthusiast+%26+SQA+Engineer" alt="https://git.io/typing-svg"/> </a> </h3>
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="300" alt="tmb1n-left-single"/>
 <br />
 

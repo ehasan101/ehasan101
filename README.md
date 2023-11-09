@@ -2,7 +2,7 @@
 <br />
 <h2 align="left"> <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=27&duration=5&pause=1500&color=172931&random=false&width=450&height=45&lines=Assalamu+Alaikum...+(Peace+be+upon+You);Hi%2C+It's+EMAMUL+!" alt="Assalamu Alaikum"/> </a> </h2>
 <h3 align="center"> <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=23&duration=2000&pause=1500&color=00495F&random=false&width=700&lines=A+passionate+Cyber+Security+Enthusiast+%26+SQA+Engineer" alt="https://git.io/typing-svg"/> </a> </h3>
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="300" alt="tmb1n-left-single"/>
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="300" alt="code_man"/>
 <br />
 
  - 📒 I'm Graduated from Computer Science & Engineering Department.

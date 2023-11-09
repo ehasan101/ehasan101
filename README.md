@@ -1,28 +1,14 @@
-<br />
-
-<br />
-
 ![A passionate Cyber Security Enthusiast and Software Tester](https://github.com/tmb1n/tmb1n/blob/main/cover.jpg)
-
-<h2 align="center"> Assalamu Alaikum... Hi, It's EMAMUL! <img src="https://github.com/tmb1n/emamul/blob/main/assets/img/alc/code.gif" width="25px"> </h2>
-<h4 align="center"> A passionate Cyber Security Enthusiast and QA Engineer. </h4>
-
+<h2 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Carter+One&size=25&duration=5&pause=2000&color=131E24&random=false&width=500&height=40&lines=Assalamu+Alaikum...+(Peace+be+upon+you);Hi%2C+It's+EMAMUL+!" alt="Assalamu Alaikum" /></a> </h2>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=ubuntu&duration=2500&pause=800&color=006685&random=false&width=500&height=40&lines=A+passionate+Cyber+Security+Enthusiast+%26+SQA+Engineer" alt="Emamul Hasan, a SQA-Cyber Security Enthusiast"/> </a> </h3>
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align="right" width="300" alt="tmb1n-left-single"/>
-
 <br />
-
-<br />
-
 
  - 📒 I'm Graduated from Computer Science & Engineering Department.
  - 💼 I’m working on Software Testing. 
  - 🌱 I’m currently learning Cyber Security (web-mobile pentesting) 
  - ⚡ Fun fact: I'm INVISIBLE 😅
-<br />
-
-<br />
-
-<br />
+<br/> <br/> <br/>
 
 ## 📎 All Projects
  - [Manual Testing (SQA)](https://drive.google.com/file/d/1CPWNQ-8F_w6w0ddA9f-IAwPIaqVyAIkH/view?usp=drive_link)

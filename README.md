@@ -12,10 +12,10 @@
 <br/> <br/> <br/>
 
 ## 📎 All Projects
- - [Manual Testing (SQA)](https://drive.google.com/file/d/1CPWNQ-8F_w6w0ddA9f-IAwPIaqVyAIkH/view?usp=drive_link)
+ - [Manual Testing (SQA)](https://github.com/tmb1n/projects)
  - Automation Tetsing (SQA)
- - [Web Penetration Testing](https://drive.google.com/file/d/1CPWNQ-8F_w6w0ddA9f-IAwPIaqVyAIkH/view?usp=drive_link)
- - [Others](https://drive.google.com/file/d/1CPWNQ-8F_w6w0ddA9f-IAwPIaqVyAIkH/view?usp=drive_link)
+ - [Web Penetration Testing](https://github.com/tmb1n/projects)
+ - [Others](https://github.com/tmb1n/projects)
  
 <br />
 

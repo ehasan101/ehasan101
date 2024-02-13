@@ -12,10 +12,10 @@
 <br/> <br/> <br/>
 
 ## 📎 All Projects
- - [Manual Testing (SQA)](https://github.com/tmb1n/projects)
+ - [Manual Testing (SQA)](https://github.com/ehasan101/projects)
  - Automation Tetsing (SQA)
- - [Web Penetration Testing](https://github.com/tmb1n/projects)
- - [Others](https://github.com/tmb1n/projects)
+ - [Web Penetration Testing](https://github.com/ehasan101/projects)
+ - [Others](https://github.com/ehasan101/projects)
  
 <br />
 
@@ -54,7 +54,7 @@
 <div align="center" style="display: flex; justify-content: space-between;">
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.#.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tmb1n/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tmb1n) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tmb1n) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehasan101) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@tmb1n) 
 <div>
 

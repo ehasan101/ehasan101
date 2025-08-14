@@ -38,7 +38,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+ <!--  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> -->
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.jira.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tmb1n/emamul/blob/main/assets/img/alc/Jira.png" alt="jira" width="40" height="40"/> </a> 
@@ -58,18 +58,15 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@ehasan101) 
 <div>
 
-<!-- 
-![](https://github-readme-stats.vercel.app/api?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
----
+
 [![](https://visitcount.itsvg.in/api?id=ehasan101&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=transparent&hide_border=false)
 -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 

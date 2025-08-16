@@ -60,9 +60,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=ehasan101&icon=0&color=1)](https://visitcount.itsvg.in)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ehasan101&theme=transparent&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ehasan101&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <br>
 
@@ -79,7 +77,7 @@
 
   
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/#)
- 
+[![](https://visitcount.itsvg.in/api?id=ehasan101&icon=0&color=1)](https://visitcount.itsvg.in)
 ![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=transparent&hide_border=false)
 -->
   

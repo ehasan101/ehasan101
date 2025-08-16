@@ -60,7 +60,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehasan101&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ehasan101&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <br>
 

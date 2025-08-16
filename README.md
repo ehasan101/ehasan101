@@ -13,7 +13,7 @@
 
 ## 📎 All Projects
  - [Manual Testing (SQA)](https://github.com/ehasan101/projects)
- - Automation Tetsing (SQA)
+ - [Automation Tetsing (SQA)](https://github.com/ehasan101/projects)
  - [Web Penetration Testing](https://github.com/ehasan101/projects)
  - [Others](https://github.com/ehasan101/projects)
  

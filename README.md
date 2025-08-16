@@ -61,8 +61,11 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=ehasan101&icon=0&color=1)](https://visitcount.itsvg.in)
-![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=transparent&hide_border=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ehasan101&theme=transparent&hide_border=false)
+
 <br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -72,13 +75,12 @@
 -->
 
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d1mgen&label=Profile%20views&color=0e75b6&style=flat" alt="d1mgen-counter" /> </p>
 
   
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/#)
  
-
+![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=transparent&hide_border=false)
 -->
   
 

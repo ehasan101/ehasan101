@@ -62,9 +62,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ehasan101&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 

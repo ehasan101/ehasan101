@@ -59,8 +59,13 @@
 <div>
 
 
+<!--
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehasan101&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://https://github-readme-streak-stats.herokuapp.com?user=ehasan101&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![ehasan101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehasan101&theme=transparent&hide_border=true)
+-->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ehasan101)](https://git.io/streak-stats)
 
 
 

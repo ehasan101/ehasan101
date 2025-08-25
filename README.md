@@ -59,18 +59,29 @@
 <div>
 
 
+
+![gitS](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=default&hide_border=false) <br/>
+![code](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=ehasan101&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <!--
 
 ![GitHub Streak](https://https://github-readme-streak-stats.herokuapp.com?user=ehasan101&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 ![ehasan101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ehasan101&theme=transparent&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ehasan101)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ehasan101)](https://git.io/streak-stats)
 
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+<!-- 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+
+-->
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
@@ -87,4 +98,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=transparent&hide_border=false)
 -->
   
+
 

@@ -48,7 +48,7 @@
 </p>
 
 
-
+<!--
 ## 💬 Connect with Me
 
 <div align="center" style="display: flex; justify-content: space-between;">
@@ -57,14 +57,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ehasan101) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@ehasan101) 
 <div>
+-->
 
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=dark&hide_border=true) <br/>
-
-[![](https://visitcount.itsvg.in/api?id=ehasan101&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&stats_format=bytes)
+![streak](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=dark&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&layout=compact)
 
 
 
@@ -76,6 +72,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 ![code](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+-------main
+![](https://nirzak-streak-stats.vercel.app/?user=ehasan101&theme=dark&hide_border=true) <br/>
+
+[![](https://visitcount.itsvg.in/api?id=ehasan101&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehasan101&stats_format=bytes)
 
 -->
 
